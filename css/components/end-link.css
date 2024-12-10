@@ -1,0 +1,12 @@
+.end-link{
+
+	font-size: 50px;
+	text-decoration: none;
+	color: rgb(73,84,158);
+}
+
+.end-link:hover {
+	color:#1F509A;
+	text-decoration: none;
+}
+
